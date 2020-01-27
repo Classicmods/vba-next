@@ -1,6 +1,7 @@
-sudo: required
+name: CI
 
-language: minimal
+jobs: vba-next
+  job_id: 2
 
 env:
   global:
